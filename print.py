@@ -1,3 +1,5 @@
+# learn Python Coding in 2020
+# from Codemy.com
 # Clear the terminal screen
 import os
 os.system('clear')
