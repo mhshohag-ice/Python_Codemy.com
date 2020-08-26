@@ -2,5 +2,7 @@
 import os
 os.system('clear')
 
-greetings = "Hello Everyone!"
-print(greetings)
+greetings = "Hello!, "
+name = "Shohag."
+
+print(greetings+name)
