@@ -2,7 +2,15 @@
 import os
 os.system('clear')
 
-greetings = "Hello!, "
-name = "Shohag."
 
-print(greetings+name)
+
+
+def Greeting():
+	greetings = "Hello!, "
+	name = "Shohag."
+	return greetings + name
+
+
+greet = Greeting()
+
+print(greet)
