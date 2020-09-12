@@ -12,5 +12,8 @@ dic1 = {
 
 #del dic1['Shohag']
 dic1.update({"Nafis": 'Rope Hero'})
+#updating old values
+
+dic1['Shohag'] = 'Pubg'
 
 print(dic1)
