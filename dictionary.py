@@ -10,4 +10,7 @@ dic1 = {
 	'Nahiyan': 'granny',
 }
 
-print(dic1.keys(),dic1.values())
+#del dic1['Shohag']
+dic1.update({"Nafis": 'Rope Hero'})
+
+print(dic1)
